@@ -1,0 +1,4 @@
+interface:
+  display_name: "X Fans"
+  short_description: "Scan X, then reply, like, and follow idea-sharing posts safely"
+  default_prompt: "Use $x-fans and @Computer to scan 500 X For You posts, reply to idea-sharing posts in their original language, then like and follow those authors from the card menus without unfollowing anyone."
